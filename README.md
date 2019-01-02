@@ -6,4 +6,4 @@ Follow the steps to run this loader/spinner in React
 
 3: npm start
 
-4: Enjoy :)
+4: Enjoy  :)
